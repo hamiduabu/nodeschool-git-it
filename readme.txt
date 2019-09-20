@@ -1,1 +1,1 @@
-"nodeschool.io" 
+nodeschool.io - git-it course
